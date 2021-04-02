@@ -1,0 +1,19 @@
+.love {
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: violet;
+    text-align: center;
+}
+
+body {
+    background: darkgrey;
+}
+
+.WispyPic {
+    border-radius: 40px;
+    border: 2px double black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
